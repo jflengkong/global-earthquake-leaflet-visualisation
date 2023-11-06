@@ -1,0 +1,7 @@
+References: 
+
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+
+https://www.igismap.com/legend-in-leafletjs-map-with-topojson/
+
+https://colordesigner.io/gradient-generator

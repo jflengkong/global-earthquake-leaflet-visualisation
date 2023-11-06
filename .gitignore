@@ -1,3 +1,8 @@
+
+
+# reference
+References.txt 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -64,6 +69,9 @@ db.sqlite3-journal
 # Flask stuff:
 instance/
 .webassets-cache
+
+Leaflet-part-2/css/style.css
+Leaflet-part-2/js/logic.js
 
 # Scrapy stuff:
 .scrapy
