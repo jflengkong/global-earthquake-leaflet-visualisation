@@ -7,7 +7,7 @@
   <p align="center">
     UWA Week 15 Challenge
     <br />
-    <a href="[https://jflengkong.github.io/belly-button-challenge/](https://jflengkong.github.io/leafleft-challenge/)"><strong>Leaflet Result»</strong></a>
+    <a href="https://jflengkong.github.io/leafleft-challenge/"><strong>Leaflet Result»</strong></a>
     <br />
     <br />
   </p>
