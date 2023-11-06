@@ -21,10 +21,10 @@
    <a href="#documents">Documents</a>
    </li> 
    <li> 
-      <a href="#earthquake-visualisation">Earthquake Visualisation</a> 
+      <a href="#resources-and-instructions">Resources and Instructions</a> 
    </li>
    <li>
-      <a href="#result">Result</a> 
+      <a href="#earthquake-visualisation">Earthquake Visualisation</a> 
     </li>
       <li>
       <a href="#references">References</a> 
@@ -46,7 +46,7 @@ Description of documents included in this repository:
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Earthquake Visualisation 
+## Resources and Instructions
 UWA provided us with the [GeoJSON website](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) - The USGS provides earthquake data in a number of different formats, updated every 5 minutes. We were required to visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualise. The following image is an example screenshot of what appears when you visit this link: <br> 
 
 ![geojson](https://github.com/jflengkong/leafleft-challenge/blob/main/images/Geodata-image.jpg)  
@@ -57,7 +57,7 @@ The following image is a sampling of earthquake data in JSON format:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
-## Included information in Visualisation 
+<b> Included information in Visualisation </b><br>
 - Plot earthquakes by their longitude and latitude.
 - Markers reflecting the magnitude of the earthquake by their <b> size </b> 
 - Marksers reflecting <b> depth </b> of the earthquake by colour.
@@ -66,7 +66,7 @@ The following image is a sampling of earthquake data in JSON format:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>  
 
-## Result
+## Earthquake Visualisation
 Data from USGS was used to visualise the last 7 days earthquake and visualise as below: 
 ![interactive](https://github.com/jflengkong/leafleft-challenge/blob/main/images/interactive-map.gif ) 
 
